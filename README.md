@@ -1,1 +1,1 @@
-# They All are problems of Data struvtures using Python
+# They All are problems of Data structures using Python
